@@ -1,6 +1,6 @@
 # Body-Signal-of-Smoking
 
-**Introduction **
+**Introduction**
 - Problem Statement :
   The increasing prevalence of smoking in society can have serious healthconsequences. Identifying smokers and non-smokers through bodysignal analysis can be an effective solution to support health 
   preventionand intervention programs. Therefore, an innovative approach usingmachine learning technology is needed to understand body signalpatterns that can differentiate between smokers and non- 
