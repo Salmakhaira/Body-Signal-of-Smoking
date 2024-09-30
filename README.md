@@ -19,7 +19,7 @@
   behavior andhealth outcomes. This type of data can be used to develop insights andpredictive models using machine learning techniques to understand thepatterns of body signals associated with 
   smoking habits and non-smokingstatus
   
-**Conclusion **
+**Conclusion**
 Both the Support Vector Machine (SVM) and Logistic Regression models were evaluated on the test dataset. The SVM model achieved an accuracy of approximately 73.94%, while the Logistic Regression model achieved a slightly higher accuracy of approximately 74.09%. These results indicate that both models perform similarly in predicting the health outcomes related to smoking, with Logistic Regression having a marginal edge in accuracy. From the data analysis and machine learning modeling that we have carried out, vital signs from the human body have been proven to be able to prove whether a person is in the category of smoker or not.
 
 # About Dataset
